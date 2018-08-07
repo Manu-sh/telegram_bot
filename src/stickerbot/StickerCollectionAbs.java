@@ -3,7 +3,7 @@ package stickerbot;
 import telegrambot.network.InvalidUrlQueryException;
 import telegrambot.network.NetworkError;
 import telegrambot.network.TelegramMethod;
-import telegrambot.tgcore.BotCfg;
+import telegrambot.tgcore.core.BotCfg;
 import telegrambot.tgcore.Update;
 
 import java.net.URISyntaxException;

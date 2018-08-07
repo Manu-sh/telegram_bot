@@ -1,4 +1,4 @@
-package telegrambot.tgcore;
+package telegrambot.tgcore.core;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -12,7 +12,7 @@ public class BotCfg {
 
     static {
 
-        final String cfg_path = System.getProperty("user.home") + File.separator + "vaporbot.cfg";
+        final String cfg_path = System.getProperty("user.home") + File.separator + "telegram_bot.cfg";
 
         try {
 

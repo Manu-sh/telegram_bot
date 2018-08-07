@@ -1,7 +1,7 @@
 package stickerbot;
 
 import telegrambot.network.MsgHandler;
-import telegrambot.tgcore.BotCfg;
+import telegrambot.tgcore.core.BotCfg;
 import telegrambot.tgcore.Update;
 
 import java.util.Arrays;

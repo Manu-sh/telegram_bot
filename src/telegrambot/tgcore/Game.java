@@ -1,6 +1,8 @@
 package telegrambot.tgcore;
 
 import org.json.JSONObject;
+import telegrambot.tgcore.core.JsonUtils;
+import telegrambot.tgcore.core.TGobject;
 
 import java.util.ArrayList;
 

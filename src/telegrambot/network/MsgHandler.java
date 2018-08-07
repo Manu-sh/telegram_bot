@@ -1,7 +1,7 @@
 package telegrambot.network;
 
 import org.json.JSONObject;
-import telegrambot.tgcore.JsonUtils;
+import telegrambot.tgcore.core.JsonUtils;
 import telegrambot.tgcore.Update;
 
 import java.net.URI;
@@ -10,7 +10,6 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
 import java.util.Queue;
-import java.util.stream.Stream;
 
 public class MsgHandler implements Iterable<Update> {
 

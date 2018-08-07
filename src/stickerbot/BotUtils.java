@@ -1,6 +1,6 @@
 package stickerbot;
 
-import telegrambot.tgcore.BotCfg;
+import telegrambot.tgcore.core.BotCfg;
 
 import java.io.File;
 import java.util.regex.Pattern;

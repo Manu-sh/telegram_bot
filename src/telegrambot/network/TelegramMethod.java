@@ -1,8 +1,8 @@
 package telegrambot.network;
 
 import org.json.JSONObject;
-import telegrambot.tgcore.JsonUtils;
-import telegrambot.tgcore.TGobject;
+import telegrambot.tgcore.core.JsonUtils;
+import telegrambot.tgcore.core.TGobject;
 
 import java.io.File;
 import java.io.IOException;

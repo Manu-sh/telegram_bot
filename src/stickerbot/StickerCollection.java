@@ -4,7 +4,7 @@ import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 import telegrambot.network.InvalidUrlQueryException;
 import telegrambot.network.NetworkError;
 import telegrambot.network.TelegramMethod;
-import telegrambot.tgcore.BotCfg;
+import telegrambot.tgcore.core.BotCfg;
 import telegrambot.tgcore.Sticker;
 import telegrambot.tgcore.Update;
 

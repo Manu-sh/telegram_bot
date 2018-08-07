@@ -1,4 +1,4 @@
-package telegrambot.tgcore;
+package telegrambot.tgcore.core;
 
 import org.json.JSONArray;
 import org.json.JSONException;

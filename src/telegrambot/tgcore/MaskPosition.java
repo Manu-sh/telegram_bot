@@ -1,6 +1,7 @@
 package telegrambot.tgcore;
 
 import org.json.JSONObject;
+import telegrambot.tgcore.core.TGobject;
 
 public class MaskPosition extends TGobject {
 

@@ -4,6 +4,9 @@ import org.json.JSONObject;
 import telegrambot.network.InvalidUrlQueryException;
 import telegrambot.network.NetworkError;
 import telegrambot.network.TelegramMethod;
+import telegrambot.tgcore.core.BotCfg;
+import telegrambot.tgcore.core.JsonUtils;
+import telegrambot.tgcore.core.TGobject;
 
 import java.net.URISyntaxException;
 import java.util.ArrayList;

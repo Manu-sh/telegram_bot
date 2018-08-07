@@ -1,9 +1,7 @@
-package telegrambot.tgcore;
+package telegrambot.tgcore.core;
 
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 import org.json.JSONObject;
-
-// Questa classe fornirà alle sue sottoclassi metodi per fare richieste GET e POST
 
 abstract public class TGobject {
 
