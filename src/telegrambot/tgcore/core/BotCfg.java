@@ -10,6 +10,13 @@ public class BotCfg {
     public final static String bot_token;
     public final static String bot_name;
 
+    /*  example of: $HOME/telegram_bot.cfg
+
+        bot_token = YOUR_SECRET_TOKEN
+        bot_name  = your_bot_name
+    */
+
+
     static {
 
         final String cfg_path = System.getProperty("user.home") + File.separator + "telegram_bot.cfg";
